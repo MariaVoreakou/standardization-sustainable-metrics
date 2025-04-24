@@ -74,6 +74,7 @@ This work aims to bridge systems modeling with sustainability assessment in soft
 ├── /diagrams             
 ├──── /datacenter-level   # SysML models in .svg format created based on the state of the art paper
 ├──── /software-level     # SysML models in .svg format created for our research
+├──── /cloud-related      # SysML models in .svg format created for our research cloud related
 ├── /papers               # Reference materials and annotated base papers
 ├── /misc                 # Other files used for this research
 
